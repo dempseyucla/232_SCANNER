@@ -1,0 +1,4 @@
+print asdf 102.7 !!*&
+repeat theAB123 5692;((
+) ) asdf(a)*b +c + ccc asdf
+asdf! &a21.5*
